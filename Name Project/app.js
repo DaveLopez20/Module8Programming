@@ -24,9 +24,13 @@ let data = [
         age: '23'
     },
     {
-        name: 'Huey',
+        name: 'Huey Campbell',
         age: '24'
     },
+    {
+        name:'Ash Williams',
+        age: '57'
+    }
 ];
 
 const info= document.querySelector('#info')
